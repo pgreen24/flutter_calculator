@@ -220,7 +220,6 @@ class _HomePageState extends State< HomePage> {
                               textColor: Chkoperator(buttonele[index])?Colors.black:Colors.white,
                             );
                           }
-
                         }
                     )
                 )
